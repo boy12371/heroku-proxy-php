@@ -1,0 +1,8 @@
+{
+  "name": "通用Web代理 (php)",
+  "description": "基于php的Web",
+  "image": "heroku/php",
+  "repository": "https://github.com/boy12371/heroku-proxy-php",
+  "keywords": ["php"],
+  "website": "https://github.com"
+}
